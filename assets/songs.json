@@ -1,0 +1,65 @@
+
+{
+    "songs": [
+        {
+        "id": "1121429554",
+        "title": "Chạy Về Khóc Với Anh",
+        "album": "Chạy Về Khóc Với Anh(Single)",
+        "artist": "ERIK",
+        "source": "https://thantrieu.com/resources/music/1121429554.mp3",
+        "image": "https://thantrieu.com/resources/arts/1121429554.webp",
+        "duration": 224,
+        "favorite": "false",
+        "counter": 20,
+        "replay": 0
+        },
+        {
+        "id": "1130295694",
+        "title": "Như Anh Đã Thấy Em",
+        "album": "Chẳng Thể Tìm Được Em 2",
+        "artist": "Phúc XP ft Freak D",
+        "source": "https://thantrieu.com/resources/music/1130295694.mp3",
+        "image": "https://thantrieu.com/resources/arts/1130295694.webp",
+        "duration": 302,
+        "favorite": "false",
+        "counter": 40,
+        "replay": 0
+        },
+        {
+        "id": "1130295695",
+        "title": "Có Chơi Có Chịu",
+        "album": "KARIK X ONLY C",
+        "artist": "Karik ft Only C",
+        "source": "https://thantrieu.com/resources/music/1130295695.mp3",
+        "image": "https://thantrieu.com/resources/arts/1130295695.webp",
+        "duration": 224,
+        "favorite": "false",
+        "counter": 57,
+        "replay": 0
+        },
+        {
+        "id": "1130295696",
+        "title": "Hoa Nở không Màu",
+        "album": "Đồng Dao Show",
+        "artist": "Hoài Lâm",
+        "source": "https://thantrieu.com/resources/music/1130295696.mp3",
+        "image": "https://thantrieu.com/resources/arts/1130295696.webp",
+        "duration": 257,
+        "favorite": "false",
+        "counter": 44,
+        "replay": 0
+        },
+        {
+        "id": "1130295697",
+        "title": "Đế Vương",
+        "album": "Ciray Remix-Cover",
+        "artist": "Đình Dũng",
+        "source": "https://thantrieu.com/resources/music/1130295697.mp3",
+        "image": "https://thantrieu.com/resources/arts/1130295697.webp",
+        "duration": 199,
+        "favorite": "false",
+        "counter": 240,
+        "replay": 0
+        }
+    ] 
+}
